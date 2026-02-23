@@ -37,7 +37,7 @@ body * {
 #container {
   width: 100%;
   max-width: 488px;
-  margin: 56px auto 0px;
+  margin: 0px auto;
   padding: 0px 24px;
   animation: fadeIn 0.8s ease-in-out;
 }
