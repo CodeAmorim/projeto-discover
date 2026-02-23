@@ -29,7 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online. Criei este projeto com base em um projeto idêntico disponibilizado pela Rocketseat em seu curso gratuito chamado Discover.
+O DevLinks é um agregador de links para usar como cartão de visitas online. Criei este projeto com base em um projeto idêntico disponibilizado pela Rocketseat em seu curso gratuito chamado Discover. Realizei algumas alterações no projeto original, como:
+
+- Adição de Fade-In ao acessar a página
+- Alteração das cores e imagens de background seguindo os padrões definidos pelo projeto no Figma
+
+Pretendo atualizar este projeto com o tempo, adicionando novas features para melhorar a experiência do usuário
 
 ## 🔖 Layout
 
