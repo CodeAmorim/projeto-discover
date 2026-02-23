@@ -34,7 +34,9 @@ O DevLinks é um agregador de links para usar como cartão de visitas online. Cr
 - Adição de Fade-In ao acessar a página
 - Alteração das cores e imagens de background seguindo os padrões definidos pelo projeto no Figma
 
-Pretendo atualizar este projeto com o tempo, adicionando novas features para melhorar a experiência do usuário
+Pretendo atualizar este projeto com o tempo, adicionando novas features para melhorar a experiência do usuário, de forma que se torne meu "ink.tree".
+
+Toda e qualquer sugestão é bem-vinda!
 
 ## 🔖 Layout
 
